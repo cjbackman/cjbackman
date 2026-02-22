@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**cjbackman/cjbackman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering leader building high-performance teams and AI-native software organizations.
 
-Here are some ideas to get you started:
+My work sits at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Engineering strategy & organizational design
+- Continuous delivery & developer experience
+- AI-native software development
+- Data-informed operating models
+
+I care about systems — technical systems, organizational systems, and personal systems. I believe great engineering is built on clarity, accountability, and disciplined iteration.
+
+Current focus:
+
+- AI-native SDLC workflows
+- Measuring engineering effectiveness (DORA, throughput, quality signals)
+- Mobile performance & observability
+- Organizational scaling models
